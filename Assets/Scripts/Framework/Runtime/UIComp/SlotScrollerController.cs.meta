@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 8a007ebce1e526549883bd722d23b68f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - scrollRect: {instanceID: 0}
+  - content: {instanceID: 0}
+  - slotItemPrefab: {instanceID: 0}
+  - spinButton: {instanceID: 0}
+  - scrollSound: {fileID: 8300000, guid: 727469175284b0d44a2a6f881e7945d2, type: 3}
+  - stopSound: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
